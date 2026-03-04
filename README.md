@@ -6,7 +6,7 @@
 
 ---
 
-> Transformed 4,500 messy records into clean, analysis-ready data in **1.77 seconds** — automatically synced to Google Sheets. 
+> Transformed 4,500 messy records into clean, analysis-ready data in **1.77 seconds** - automatically synced to Google Sheets. 
 
 Reduced manual data preparation from 8 hours to under 2 minutes, achieving 100% data quality scores on real-world SaaS datasets.
 
